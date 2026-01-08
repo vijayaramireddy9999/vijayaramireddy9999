@@ -24,7 +24,7 @@ Full Stack Developer | MERN Stack & Python | Building Scalable Web Applications
 </ul>
 <p>
 🔗 <a href="GITHUB_REPO_LINK">GitHub Repo</a> |
-🚀 <a href="LIVE_DEMO_LINK">Live Demo</a>
+🚀 <a href="https://chaibuster.netlify.app/">Live Demo</a>
 </p>
 
 <h4>🛍️ Vijay Stores – Backend E-Commerce System</h4>
