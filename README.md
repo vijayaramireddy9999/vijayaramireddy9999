@@ -8,7 +8,6 @@ Full Stack Developer | MERN Stack & Python | Building Scalable Web Applications
 - 👨‍💻 All of my projects are available at <a href="xxxxxxxxx">Portfolio</a>
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, Python**
 - 📫 Reach me at **vijaythotireddy@gmail.com**
-- 📄 View my resume <a href="xxxxxxxxx">here</a>
 - ⚡ Fun fact: **I care as much about API performance as I do about clean UI**
 
 <hr/>
